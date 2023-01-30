@@ -1,3 +1,3 @@
-Only learn English when you went to school. ([[BMU.pdf#page=22|Page 10]])
+Only learn English when you went to school. ([Page 10](BMU.pdf#page=22))
 
-#contrast: "made my father cry \[. . .\] And I was happy with Ultima" ([[BMU.pdf#page=27|Page 15]])
+#contrast: "made my father cry \[. . .\] And I was happy with Ultima" ([Page 15](BMU.pdf#page=27))

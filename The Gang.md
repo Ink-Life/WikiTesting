@@ -3,7 +3,7 @@ tags: character
 alias: Horse, Ernie, Able, Florence, Bones
 ---
 All of them are in second or third grade
-Friends with [[Andrew]]?
+Friends with [Andrew](/Andrew)?
 
 ## Ernie
 Likes to brag

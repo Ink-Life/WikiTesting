@@ -1,14 +1,14 @@
-## [[BMU.pdf#page=57|Page 45]]
-This vision is of a prayer from [[Gabriel and Maria Márez#Maria Márez|Antonio's mother]] to [[the Virgin]]
+## [Page 45](/BMU.pdf#page=57)
+This vision is of a prayer from [[Gabriel and Maria Márez#Maria Márez|Antonio's mother]] to [the Virgin](/the Virgin)
 > [!quote] [[Gabriel and Maria Márez#Maria Márez|Maria Márez]]
 > *Virgen de Guadalupe*, return my sons to me
 
-> [!quote] [[the Virgin]]
+> [!quote] [the Virgin](/the Virgin)
 > Your sons will return safely.
 
 > [!quote] [[Gabriel and Maria Márez#Maria Márez|Maria Márez]]
-> Make [[Antonio Márez|my fourth son]] a [[Gabriel and Maria Márez#Maria Márez#Dream|priest]]
+> Make [my fourth son](/Antonio Márez) a [priest](/Gabriel and Maria Márez#Maria Márez#Dream)
 
-[[the Virgin|The Virgin]] is seen morning over [[Antonio Márez|Antonio]]
+[The Virgin](/the Virgin) is seen morning over [Antonio](/Antonio Márez)
 
-[[Antonio Márez|Antonio]] wakes, crying "Mother of God"^[Usually meant literally as [[the Virgin|Mary]], the mother of God]
+[Antonio](/Antonio Márez) wakes, crying "Mother of God"^[Usually meant literally as [Mary](/the Virgin), the mother of God]

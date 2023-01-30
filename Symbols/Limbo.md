@@ -22,8 +22,8 @@ tags: symbol
 ([Britanica](https://www.britannica.com/topic/limbo-Roman-Catholic-theology#:~:text=limbo%2C%20in%20Roman,the%20mentally%20impaired.), [Wikipedia]([Limbo - Wikipedia](https://en.wikipedia.org/wiki/Limbo)))
 
 ## Interpretation
-Because the [[the Virgin]] could not redeem the children from Limbo, it shows the limitation of religion
+Because the [the Virgin](/the Virgin) could not redeem the children from Limbo, it shows the limitation of religion
 
-[[The Owl|The owl]] saves them instead, though I do not know what this means.
+[The owl](/The Owl) saves them instead, though I do not know what this means.
 
-The actions of the owl please [[the Virgin]], showing the limitations of religion
+The actions of the owl please [the Virgin](/the Virgin), showing the limitations of religion

@@ -1,6 +1,6 @@
-# [[BMU.pdf#page=25|Page 13]]
-[[The Owl|Ultima's owl]] lifts *[[the Virgin|la Virgen]]* into heaven.
+# [Page 13](/BMU.pdf#page=25)
+[[The Owl|Ultima's owl]] lifts *[la Virgen](/the Virgin)* into heaven.
 
-The owl returns and gather's all the children of [[Limbo]] and flies them to heaven as well
+The owl returns and gather's all the children of [Limbo](/Limbo) and flies them to heaven as well
 
 "The Virgen smiles at the goodness of the owl"

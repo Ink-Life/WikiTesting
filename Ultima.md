@@ -2,32 +2,32 @@
 tags: character
 ---
 A curandera^[A healing woman; a (female) shaman]
-(believed by [Deborah](</Márez Family/Deborah and Theresa.md#Deborah>) to be a witch)
+(believed by [Deborah](</MárezFamily/DeborahandTheresa.md#Deborah>) to be a witch)
 
-Is the owner of [The Owl](</Symbols/The Owl.md>)
+Is the owner of [The Owl](</Symbols/TheOwl.md>)
 
-Helped deliver [Maria Márez](</Márez Family/Gabriel and Maria Márez.md#Maria Márez>) deliver [her children](</Márez Family/Gabriel and Maria Márez.md#List of Children>) and calls her by her maiden name (*Luna*)
+Helped deliver [Maria Márez](</MárezFamily/GabrielandMariaMárez.md#Maria Márez>) deliver [her children](</MárezFamily/GabrielandMariaMárez.md#List of Children>) and calls her by her maiden name (*Luna*)
 
-Has a special connection to [Antonio](</Márez Family/Antonio Márez.md>) and is the only one who knows his [destiny](</Symbols/afterbirth.md#Interpretation>).
+Has a special connection to [Antonio](</MárezFamily/AntonioMárez.md>) and is the only one who knows his [destiny](</Symbols/afterbirth.md#Interpretation>).
 
 All her belongings are in a large blue-tin trunk
 
-Came to the family's house to live the rest of her days ([Page 12](</BMU.pdf#page=24>))
+Came to the family's house to live the rest of her days ([Page 12](</BMU.md#page=24>))
 
-Is a teacher to [Antonio](</Márez Family/Antonio Márez.md>)
+Is a teacher to [Antonio](</MárezFamily/AntonioMárez.md>)
 	- Teaches him names
 		- plants
 		- animals
 		- trees
 		- bushes
 		- birds
-"Beauty in the time of day, and in the time of night, and that there was peace in the river and in the hills" ([Page 15](</BMU.pdf#page=27>))
+"Beauty in the time of day, and in the time of night, and that there was peace in the river and in the hills" ([Page 15](</BMU.md#page=27>))
 
-Gave [Antonio](</Márez Family/Antonio Márez.md>) medicine and comforted him to help him fall asleep ([Page 25](</BMU.pdf#page=37>))
+Gave [Antonio](</MárezFamily/AntonioMárez.md>) medicine and comforted him to help him fall asleep ([Page 25](</BMU.md#page=37>))
 
-Fine breaking fast before communion (same as [Gabriel](</Márez Family/Gabriel and Maria Márez.md#Gabriel Márez>))
+Fine breaking fast before communion (same as [Gabriel](</MárezFamily/GabrielandMariaMárez.md#Gabriel Márez>))
 
-The townspeople called her these things ([Page 33](</BMU.pdf#page=45>)):
+The townspeople called her these things ([Page 33](</BMU.md#page=45>)):
 Phrase | Translation
 -|-
 *es una mujer que no ha pecado* | She is a woman who has not sinned
@@ -42,9 +42,9 @@ Phrase | Translation
 	- Bleeding dysentary
 	- Rheumatism 
 
-Teaches [Antonio](</Márez Family/Antonio Márez.md>) to explain to the plants why they are being removed
+Teaches [Antonio](</MárezFamily/AntonioMárez.md>) to explain to the plants why they are being removed
 Plants have a soul.
 
-Describes a bunch of plants and herbs on [page 40](</BMU.pdf#page=52>)
+Describes a bunch of plants and herbs on [page 40](</BMU.md#page=52>)
 
-Ultima is happy in the hills (reference to [Page 15](</BMU.pdf#page=27>))
+Ultima is happy in the hills (reference to [Page 15](</BMU.md#page=27>))

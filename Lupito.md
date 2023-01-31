@@ -1,15 +1,15 @@
 ---
 tags: character
 ---
-Killed [Cháves](</Cháves>)'s brother (the Sheriff)
+Killed [Cháves](</Cháves.md>)'s brother (the Sheriff)
 
 Shot him in the head after walking in
 
-Fled to [the river](</Water>)
-Dies and floats down [the river](</Water>)
+Fled to [the river](</Symbols/Water.md>)
+Dies and floats down [the river](</Symbols/Water.md>)
 
-Did not shoot people on the [Bridge](</Bridge>)
-Cries for [Antonio](</Antonio Márez>) to bless him
+Did not shoot people on the [Bridge](</Symbols/Bridge.md>)
+Cries for [Antonio](</Márez Family/Antonio Márez.md>) to bless him
 ([Page 22](</BMU.pdf#page=34>))
 
 Had shell-shock/PTSD ([Page 24](</BMU.pdf#page=36>))

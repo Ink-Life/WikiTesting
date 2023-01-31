@@ -13,4 +13,4 @@ Crosses bridge on [page 34](</BMU.pdf#page=46>)
 ## Interpretation
 Things are crossing over, or transitioning from one place to another.
 
-It usually has something to do with [Antonio](</Antonio Márez>)'s life
+It usually has something to do with [Antonio](</Márez Family/Antonio Márez.md>)'s life

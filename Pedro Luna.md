@@ -1,2 +1,2 @@
-Favorite uncle of [Antonio](</Antonio Márez>)
-Brother of [Maria](</Gabriel and Maria Márez#Maria Márez>)
+Favorite uncle of [Antonio](</Márez Family/Antonio Márez.md>)
+Brother of [Maria](</Márez Family/Gabriel and Maria Márez.md#Maria Márez>)

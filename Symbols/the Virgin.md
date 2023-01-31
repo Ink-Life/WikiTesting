@@ -8,8 +8,8 @@ The patron saint of the town ([Page 13](</BMU.pdf#page=25>))
 
 Associated with a series of five Marian apparitions, which are believed to have occurred in December 1531, and a venerated image on a cloak enshrined within the Basilica of Our Lady of Guadalupe in Mexico City. The basilica is the most-visited Catholic shrine in the world, and the world's third most-visited sacred site. ([Our Lady of Guadalupe - Wikipedia](https://en.wikipedia.org/wiki/Our_Lady_of_Guadalupe#:~:text=Our%20Lady%20of%20Guadalupe%20(,site.%5B1%5D%5B2%5D)\)
 
-[[BMU.pdf#page=55-56|Page 43-44]]:
-- The alter to the Virgin is described, and it references the babes of [Limbo](</Limbo>)
+[Page 43-44](</BMU.pdf#page=55-56>):
+- The alter to the Virgin is described, and it references the babes of [Limbo](</Symbols/Limbo.md>)
 - Called "the last relief of all sinners"
 - "God was not always forgiving \[. . . \] The Virgin always forgave"
 Gives further #contrast between the Virgin and God.^[I do not share these beliefs and they make me uncomfortable]

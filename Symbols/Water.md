@@ -9,7 +9,7 @@ Soul of the river
 
 "stained with blood forever" ([Page 24](</BMU.pdf#page=36>))
 
-[[BMU.pdf#page=53-54|Page 41-42]]
+[Page 41-42](</BMU.pdf#page=53-54>)
 
 ## Interpretation
 - Wild

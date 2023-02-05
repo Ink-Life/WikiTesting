@@ -3,6 +3,6 @@ tags: character
 ---
 Quiet and moody, and sometimes (without reason) wild.
 
-Speaks to [Jasón's Indian](</TheIndian.md>)
+Speaks to [[The Indian|Jasón's Indian]]
 
 Son of [Fío](</Fío.md>)

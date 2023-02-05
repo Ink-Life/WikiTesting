@@ -1,6 +1,6 @@
-Last name means "[The ocean](</Symbols/Water.md>)"
+Last name means "[[Water|The ocean]]"
 
-Goes to bed early on Saturday for early mass^[sacrament] ([Page 15](</BMU.md#page=27>))
+Goes to bed early on Saturday for early mass^[sacrament] ([[BMU.pdf#page=27|Page 15]])
 
 Suggests that [Cháves](</Cháves.md>) stay back (possibly because he is too emotional)
 
@@ -13,7 +13,7 @@ Called priests "women"
 Fine breaking fast before communion (same as [Ultima](</Ultima.md>))
 
 ## Dream 
-[Page 14](</BMU.md#page=26>)
+[[BMU.pdf#page=26|Page 14]]
 
 Gather his sons and move westward to California
 
@@ -21,4 +21,4 @@ Bitter because the war took his sons ([León](</MárezFamily/León.md>), [Andrew
 
 Loves sharing it, and is glad [Ultima](</Ultima.md>) is there so he can share it with her
 
-Cries because war ruined his dream ([Page 15](</BMU.md#page=27>))
+Cries because war ruined his dream ([[BMU.pdf#page=27|Page 15]])

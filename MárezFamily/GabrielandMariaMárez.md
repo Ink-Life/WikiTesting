@@ -2,7 +2,7 @@
 tags: character, catholic
 ---
 ## Basics
-Parents of [Antonio Márez](</MárezFamily/AntonioMárez.md>)
+Parents of [[Antonio Márez]]
 Marriage of the *Luna* and *Márez* families
 
 Main struggle between:
@@ -13,12 +13,12 @@ Main struggle between:
 1. [León](</MárezFamily/León.md>)
 2. [Andrew](</MárezFamily/Andrew.md>)
 3. [Eugene](</MárezFamily/Eugene.md>)
-4. [Deborah](</MárezFamily/DeborahandTheresa.md#Deborah>)
-5. [Theresa](</MárezFamily/DeborahandTheresa.md#Theresa>)
-6. [Antonio](</MárezFamily/AntonioMárez.md>)
+4. [[Deborah and Theresa#Deborah|Deborah]]
+5. [[Deborah and Theresa#Theresa|Theresa]]
+6. [[Antonio Márez|Antonio]]
 
 ---
 # Gabriel Márez
-[Gabriel Márez](</MárezFamily/GabrielMárez.md>)
+[[Gabriel Márez]]
 # Maria Márez
-[Maria Márez](</MárezFamily/MariaMárez.md>)
+[[Maria Márez]]

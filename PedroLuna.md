@@ -1,2 +1,2 @@
-Favorite uncle of [Antonio](</MárezFamily/AntonioMárez.md>)
-Brother of [Maria](</MárezFamily/GabrielandMariaMárez.md#Maria Márez>)
+Favorite uncle of [[Antonio Márez|Antonio]]
+Brother of [[Gabriel and Maria Márez#Maria Márez|Maria]]

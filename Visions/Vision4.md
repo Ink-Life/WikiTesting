@@ -1,14 +1,17 @@
-## [Page 45](</BMU.md#page=57>)
-This vision is of a prayer from [Antonio's mother](</MárezFamily/GabrielandMariaMárez.md#Maria Márez>) to [the Virgin](</Symbols/theVirgin.md>)
-> [!quote] [Maria Márez](</MárezFamily/GabrielandMariaMárez.md#Maria Márez>)
+## [[BMU.pdf#page=57|Page 45]]
+This vision is of a prayer from [[Gabriel and Maria Márez#Maria Márez|Antonio's mother]] to [[the Virgin]]
+> [[Gabriel and Maria Márez#Maria Márez|Maria Márez]]
 > *Virgen de Guadalupe*, return my sons to me
+{ .is-quote }
 
-> [!quote] [the Virgin](</Symbols/theVirgin.md>)
+> [[the Virgin]]
 > Your sons will return safely.
+{ .is-quote }
 
-> [!quote] [Maria Márez](</MárezFamily/GabrielandMariaMárez.md#Maria Márez>)
-> Make [my fourth son](</MárezFamily/AntonioMárez.md>) a [[Gabriel and Maria Márez#Maria Márez#Dream|priest]]
+> [[Gabriel and Maria Márez#Maria Márez|Maria Márez]]
+> Make [[Antonio Márez|my fourth son]] a [[Gabriel and Maria Márez#Maria Márez#Dream|priest]]
+{ .is-quote }
 
-[The Virgin](</Symbols/theVirgin.md>) is seen morning over [Antonio](</MárezFamily/AntonioMárez.md>)
+[[the Virgin|The Virgin]] is seen morning over [[Antonio Márez|Antonio]]
 
-[Antonio](</MárezFamily/AntonioMárez.md>) wakes, crying "Mother of God"^[Usually meant literally as [Mary](</Symbols/theVirgin.md>), the mother of God]
+[[Antonio Márez|Antonio]] wakes, crying "Mother of God"^[Usually meant literally as [[the Virgin|Mary]], the mother of God]

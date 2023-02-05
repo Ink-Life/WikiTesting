@@ -2,16 +2,16 @@
 tags: symbol
 ---
 ## Literal
-Connected to the river ([Page 10](</BMU.md#page=22>))
+Connected to the river ([[BMU.pdf#page=22|Page 10]])
 
-"afraid of the awful *presence* of the river" ([Page 15](</BMU.md#page=27>))
+"afraid of the awful *presence* of the river" ([[BMU.pdf#page=27|Page 15]])
 Soul of the river
 
-"stained with blood forever" ([Page 24](</BMU.md#page=36>))
+"stained with blood forever" ([[BMU.pdf#page=36|Page 24]])
 
-[Page 41-42](</BMU.md#page=53-54>)
+[[BMU.pdf#page=53-54|Page 41-42]]
 
 ## Interpretation
 - Wild
 - ferocious
-([Page 41](</BMU.md#page=53>))
+([[BMU.pdf#page=53|Page 41]])

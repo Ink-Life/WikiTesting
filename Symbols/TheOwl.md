@@ -6,9 +6,9 @@ The pet and companion of [Ultima](</Ultima.md>)
 
 Aware of things that it shouldn't
 i.e. events to come
-([Page 15](</BMU.md#page=27>))
+([[BMU.pdf#page=27|Page 15]])
 
-Cries warning again ([Page 15](</BMU.md#page=27>)), wakes [Antonio](</MárezFamily/AntonioMárez.md>)
+Cries warning again ([[BMU.pdf#page=27|Page 15]]), wakes [[Antonio Márez|Antonio]]
 
 ## Interpretation
 Typically associated with *bruja*^[witch]

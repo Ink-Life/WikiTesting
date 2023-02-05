@@ -1,10 +1,10 @@
 ---
 tags: character
 ---
-Son of [Gabriel Márez and Maria Márez](</MárezFamily/GabrielandMariaMárez.md#List of Children>)
+Son of [[Gabriel and Maria Márez#List of Children|Gabriel Márez and Maria Márez]]
 
 No description given
 
-Appears in [Vision 3](</Visions/Vision3.md>) to [Antonio](</MárezFamily/AntonioMárez.md>)
+Appears in [[Vision 3]] to [[Antonio Márez|Antonio]]
 
-Lost in war ([Page 30](</BMU.md#page=42>))
+Lost in war ([[BMU.pdf#page=42|Page 30]])

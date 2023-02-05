@@ -1,15 +1,15 @@
 ---
 tags: character
 ---
-Described as "fat" ([[BMU.pdf#page=22|Page 10]])
+Described as "fat" ([Page 10](</BMU.md?page=22>))
 
 Has a wife, though only described as beautiful.
 
 Father of [Jasón](</Jasón.md>)
 
-Good drinking friend of [[Gabriel and Maria Márez#Gabriel Márez|Gabriel]]
+Good drinking friend of [Gabriel](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>)
 Work together on the highway
 
-Beats [Jasón](</Jasón.md>) to keep him from talking to [[The Indian]]
+Beats [Jasón](</Jasón.md>) to keep him from talking to [The Indian](</TheIndian.md>)
 
 Was on the bridge with the [Lupito](</Lupito.md>) incident

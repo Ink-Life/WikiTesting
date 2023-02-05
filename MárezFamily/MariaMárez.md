@@ -1,23 +1,23 @@
-Last name means "[[Water|The ocean]]"
+Last name means "[The ocean](</Symbols/Water.md>)"
 
 Calls [Ultima](</Ultima.md>) "*La Grande*"^[The great]
 
-Cries when she thinks that [[Gabriel and Maria Márez#List of Children|her children]] are taking after [[Gabriel and Maria Márez#Gabriel Márez|their father]] ([[BMU.pdf#page=20|Page 8]])
+Cries when she thinks that [her children](</MárezFamily/GabrielandMariaMárez.md#list-of-children>) are taking after [their father](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>) ([Page 8](</BMU.md?page=20>))
 
 Praying for the soul of [Lupito](</Lupito.md>) 
 
 Thinks freethinkers (like the Márez) are blasphemous
 
-Thinks [[Antonio Márez|Antonio]] still a boy
+Thinks [Antonio](</MárezFamily/AntonioMárez.md>) still a boy
 And doesn't want him to grow up
-([[BMU.pdf#page=42-43|Page 30-31]])
+([Page 30-31](</BMU.md?page=42-43>))
 
 Devote Catholic
-Believes that everyone will be saved if they turn to the "Holy [[the Virgin|Mother]] Church"
+Believes that everyone will be saved if they turn to the "Holy [Mother](</Symbols/theVirgin.md>) Church"
 
-Family Fast ([[BMU.pdf#page=42|Page 30]])
+Family Fast ([Page 30](</BMU.md?page=42>))
 
 ## Dream
-Wants [[Antonio Márez|Antonio]] to become a priest ([[BMU.pdf#page=21|Page 9]])
+Wants [Antonio](</MárezFamily/AntonioMárez.md>) to become a priest ([Page 9](</BMU.md?page=21>))
 
-The world should be a community of farmers ruled by priests ([[BMU.pdf#page=41|Page 29]])
+The world should be a community of farmers ruled by priests ([Page 29](</BMU.md?page=41>))

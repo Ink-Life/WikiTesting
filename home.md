@@ -12,30 +12,30 @@ All instances of contrast have the #contrast tag
 ## Plot Summary
 
 > Chapter 1
-> [[Antonio Márez|Antonio]] witnesses his birth in a [[Vision 1|vision]]
+> [Antonio](</MárezFamily/AntonioMárez.md>) witnesses his birth in a [vision](</Visions/Vision1.md>)
 > [Ultima](</Ultima.md>) arrives
-> [[Antonio Márez|Antonio]] has another [[Vision 2|vision]] at the end of the chapter 
+> [Antonio](</MárezFamily/AntonioMárez.md>) has another [vision](</Visions/Vision2.md>) at the end of the chapter 
 { .is-info }
 
 > Chapter 2
 > [Lupito](</Lupito.md>) has gone mad and shot the Shariff
-> [Cháves](</Cháves.md>) recruits [[Gabriel and Maria Márez#Gabriel Márez|Antonio's father]] to help find (and kill) [Lupito](</Lupito.md>)
-> [Narciso](</Narciso.md>) and [[Gabriel and Maria Márez#Gabriel Márez|Antonio's father]] are the voice of reason to not kill [Lupito](</Lupito.md>)
+> [Cháves](</Cháves.md>) recruits [Antonio's father](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>) to help find (and kill) [Lupito](</Lupito.md>)
+> [Narciso](</Narciso.md>) and [Antonio's father](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>) are the voice of reason to not kill [Lupito](</Lupito.md>)
 > [Lupito](</Lupito.md>) wants to die and is shot dead
-> [[Water|The river]] is stained with his blood
+> [The river](</Symbols/Water.md>) is stained with his blood
 > 
 { .is-info }
 
 > Chapter 3
-> [[Antonio Márez|Antonio]] struggles with the death of [Lupito](</Lupito.md>)
+> [Antonio](</MárezFamily/AntonioMárez.md>) struggles with the death of [Lupito](</Lupito.md>)
 > He worries for the town and the [Lupito](</Lupito.md>)'s murder on their heads
-> [[Antonio Márez|Antonio]] flips [[The Gang|Horse]] and joins [[The Gang]]
+> [Antonio](</MárezFamily/AntonioMárez.md>) flips [Horse](</TheGang.md>) and joins [The Gang](</TheGang.md>)
 { .is-info }
 
 > Chapter 4
-> [[Antonio Márez|Antonio]] is picking herbs with [Ultima](</Ultima.md>)
-> He asks about the sin of [Lupito](</Lupito.md>)'s murder and if [[Gabriel and Maria Márez#Gabriel Márez|his dad]] is responsible
-> [Ultima](</Ultima.md>) comforts him and says that [[Gabriel and Maria Márez#Gabriel Márez|his father]] (most likely) did not shoot [Lupito](</Lupito.md>)
-> [[the Virgin|The rosary]] is preformed
-> [[Antonio Márez|Antonio]] then has another [[Vision 4|vision]] about his [destiny](</Symbols/afterbirth.md>) and [[Gabriel and Maria Márez#Maria Márez#Dream|his mother's dream]]
+> [Antonio](</MárezFamily/AntonioMárez.md>) is picking herbs with [Ultima](</Ultima.md>)
+> He asks about the sin of [Lupito](</Lupito.md>)'s murder and if [his dad](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>) is responsible
+> [Ultima](</Ultima.md>) comforts him and says that [his father](</MárezFamily/GabrielandMariaMárez.md#gabriel-márez>) (most likely) did not shoot [Lupito](</Lupito.md>)
+> [The rosary](</Symbols/theVirgin.md>) is preformed
+> [Antonio](</MárezFamily/AntonioMárez.md>) then has another [vision](</Visions/Vision4.md>) about his [destiny](</Symbols/afterbirth.md>) and [[Gabriel and Maria Márez#Maria Márez#Dream|his mother's dream]]
 { .is-info }

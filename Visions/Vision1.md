@@ -1,4 +1,4 @@
-# [Pages 5-6](</BMU.md?page=17-18>)
+# [Pages 5-6](</BMU.md#17-18>)
 [Antonio Márez](</MárezFamily/AntonioMárez.md>) flies over the *Llano*^[desert] until landing at *Las Pasturas*^[The main setting/village of the novel]
 
 He witnesses his birth.

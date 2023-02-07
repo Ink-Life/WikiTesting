@@ -1,4 +1,4 @@
-## [Page 25-26](</BMU.md?page=37-38>)
+## [Page 25-26](</BMU.md#37-38>)
 Entire dream is about [[Gabriel and Maria Márez#Gabriel Márez#Dream|Gabriel Márez]]'s dream
 
 > !Quote] [León](</MárezFamily/León.md>)
@@ -28,7 +28,7 @@ The soul of [the river](</Symbols/Water.md>) goes to steal the souls of the brot
 > [León](</MárezFamily/León.md>), [Andrew](</MárezFamily/Andrew.md>), and [Eugene](</MárezFamily/Eugene.md>)
 > *La llorona* seeks the soul of [Antonio](</MárezFamily/AntonioMárez.md>)
 > \[. . .\]
-> [Lupito](</Lupito.md>) seeks his [blessing](</BMU.md?page=34>)
+> [Lupito](</Lupito.md>) seeks his [blessing](</BMU.md#34>)
 { .is-quote }
 
 [Antonio](</MárezFamily/AntonioMárez.md>) corrects them (it is the soul of [the river](</Symbols/Water.md>)), throws on the cloak of [[Gabriel and Maria Márez#Maria Márez#Dream|the priest]] and pleads with [the river](</Symbols/Water.md>) to let the brothers pass to build our [[Gabriel and Maria Márez#Gabriel Márez#Dream|castle on the hill]]

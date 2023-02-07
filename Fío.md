@@ -1,7 +1,7 @@
 ---
 tags: character
 ---
-Described as "fat" ([Page 10](</BMU.md?page=22>))
+Described as "fat" ([Page 10](</BMU.md#22>))
 
 Has a wife, though only described as beautiful.
 

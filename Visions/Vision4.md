@@ -1,4 +1,4 @@
-## [Page 45](</BMU.md?page=57>)
+## [Page 45](</BMU.md#57>)
 This vision is of a prayer from [Antonio's mother](</MárezFamily/GabrielandMariaMárez.md#maria-márez>) to [the Virgin](</Symbols/theVirgin.md>)
 > [Maria Márez](</MárezFamily/GabrielandMariaMárez.md#maria-márez>)
 > *Virgen de Guadalupe*, return my sons to me
